@@ -1,0 +1,14 @@
+C:\Users\rezen\exercíciosdogemini\bin\Debug\net9.0\exercíciosdogemini.exe
+C:\Users\rezen\exercíciosdogemini\bin\Debug\net9.0\exercíciosdogemini.deps.json
+C:\Users\rezen\exercíciosdogemini\bin\Debug\net9.0\exercíciosdogemini.runtimeconfig.json
+C:\Users\rezen\exercíciosdogemini\bin\Debug\net9.0\exercíciosdogemini.dll
+C:\Users\rezen\exercíciosdogemini\bin\Debug\net9.0\exercíciosdogemini.pdb
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.AssemblyInfoInputs.cache
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.AssemblyInfo.cs
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.csproj.CoreCompileInputs.cache
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.dll
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\refint\exercíciosdogemini.dll
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.pdb
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\exercíciosdogemini.genruntimeconfig.cache
+C:\Users\rezen\exercíciosdogemini\obj\Debug\net9.0\ref\exercíciosdogemini.dll
